@@ -136,6 +136,7 @@ $ http://localhost:8000
 
 ![db_miglefood](https://github.com/fadlyian/miglefood/assets/91882024/803704b8-80c7-4fcc-b313-322c47a79364)
 
+
 ## Licence
 
 This project is licensed under the MIT license. Please see the LICENSE file for more information.
